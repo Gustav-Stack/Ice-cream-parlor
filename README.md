@@ -50,7 +50,7 @@ Instale as dependências:
 
 Inicie o servidor:
 
-`node index.js`
+`node app.js`
 
 O servidor irá rodar em:
 
